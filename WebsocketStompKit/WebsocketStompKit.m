@@ -8,7 +8,7 @@
 //
 
 #import "WebsocketStompKit.h"
-#import <JFRWebSocket.h>
+#import "JFRWebSocket.h"
 
 #define kDefaultTimeout 5
 #define kVersion1_2 @"1.2"
